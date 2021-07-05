@@ -1,0 +1,6 @@
+framework module XGMTACloud_macOS {
+  umbrella header "XGMTACloud_macOS.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module XG_SDK_Cloud_macOS {
+  umbrella header "XG_SDK_Cloud_macOS.h"
+
+  export *
+  module * { export * }
+}
